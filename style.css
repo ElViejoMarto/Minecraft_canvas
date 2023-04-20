@@ -1,0 +1,10 @@
+body {
+    background-image: url("img/M.jpg");
+    background-size: cover;
+}
+#myCanvas{
+background-color: rgb(219, 219, 219);
+opacity: 0.60;
+}
+
+
